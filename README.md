@@ -82,7 +82,7 @@ Ensure you have the following dependencies installed:
 - Pandas
 - Matplotlib
 - Scikit-Learn
-- XGBoost (if using gradient boosting models)
+- XGBoost 
 
 You can install these dependencies using `pip`:
 
