@@ -90,7 +90,7 @@ You can install these dependencies using `pip`:
 pip install numpy pandas matplotlib scikit-learn xgboost
 ```
 
-## Contributing
+## Contribution
 Esther Jokodola
 
 For any questions or issues, please contact [Esther Jokodola and estherjokodola@gmail.com].
