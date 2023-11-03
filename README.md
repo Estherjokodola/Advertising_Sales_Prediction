@@ -1,4 +1,4 @@
-# Advertising Sales Prediction README
+# Advertising Sales Prediction 
 
 This README provides an overview of the Advertising Sales Prediction project, including its objectives, methods, and instructions on using the code and resources provided. The project focuses on predicting advertising sales based on various features and data analysis.
 
